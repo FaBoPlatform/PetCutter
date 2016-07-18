@@ -1,5 +1,7 @@
 # PetCutter
 
+![](preview.png)
+
 ## Material
 
 ### Petcutter
